@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dependabot/npm_and_yarn/minor-and-patch-e8ed50af9b",
+    "dependabot/npm_and_yarn/nestjs/axios-12.0.1",
+    "dependabot/npm_and_yarn/typescript-7.0.2",
+    "main",
+    "origin",
+    "solver/issue-1142-49-a0",
+    "solver/issue-1176-51-a0",
+    "solver/issue-747-57-a0"
+  ],
+  "parent": {
+    "dependabot/npm_and_yarn/minor-and-patch-e8ed50af9b": "main",
+    "dependabot/npm_and_yarn/nestjs/axios-12.0.1": "main",
+    "dependabot/npm_and_yarn/typescript-7.0.2": "main",
+    "main": null,
+    "origin": "main",
+    "solver/issue-1142-49-a0": "main",
+    "solver/issue-1176-51-a0": "main",
+    "solver/issue-747-57-a0": "main"
+  },
+  "order": [
+    "main",
+    "dependabot/npm_and_yarn/minor-and-patch-e8ed50af9b",
+    "dependabot/npm_and_yarn/nestjs/axios-12.0.1",
+    "dependabot/npm_and_yarn/typescript-7.0.2",
+    "origin",
+    "solver/issue-1142-49-a0",
+    "solver/issue-1176-51-a0",
+    "solver/issue-747-57-a0"
+  ]
+}
